@@ -13,7 +13,7 @@ class over
 
     }
 }
-class overloading
+class area
 {
     public static void main(String args[]) {
         over O=new over();
@@ -22,4 +22,3 @@ class overloading
     
     }
 }
-© 2021 GitHub, Inc.
